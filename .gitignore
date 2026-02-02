@@ -3,7 +3,7 @@ cvat
 counterpick/app
 counterpick/ml/images
 counterpick/ml/labels
-counterpick/ml/runs/detect/train
+counterpick/ml/runs/detect/train/*
 !counterpick/ml/runs/detect/train/weights/
-!counterpick/ml/runs/detect/train/weights/**
+!counterpick/ml/runs/detect/train/weights/*.pt
 .venv
