@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1YQo469v3SmAb_Ag_V2u62czV8jnA-XGA/view
 
 ## Project structure
 
-
+```
 counterpick/ # project root
 │
 ├─ .venv/ # python virtual environment
@@ -35,3 +35,5 @@ counterpick/ # project root
 │ ├─ ml_check.py # inference test
 │ ├─ screenshot_detector.py # detector helper
 │ └─ yolov8m.pt # MAIN base model (used for training)
+
+```
